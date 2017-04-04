@@ -1,0 +1,22 @@
+﻿<main id="cant-find">
+    <div class="wrap">
+      <div class="container">
+        <div class="row">
+          <div class="m-wrapper no-pad">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+              <div class="col-md-12">
+                <h1>Извините! Страница, которую Вы ищете, не может быть найдена</h1>
+              </div>
+              <div class="col-md-5">
+                <div class="num-404">404</div>
+              </div>
+              <div class="col-md-7 desc">
+                <p>Возможно, запрашиваемая Вами страница была перенесена или удалена. Также возможно, Вы допустили небольшую опечатку при вводе адреса, поэтому еще раз внимательно проверьте</p>
+                <p>Пожалуйста, воспользуйтесь навигацией или формой поиска, чтобы найти интересующую Вас информацию.</p>
+			  </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
